@@ -1,4 +1,6 @@
-# Listen to Finest
+# Finest
+
+![](homepage.png)
 
 ## Inspiration
 In an age where our lives are entwined with technology developments, it is not unexpected that most products and services are already being mechanized and digitized. One of them is the finance industry. Because of automated services such as online payment and banking, bank-related transactions have become more convenient and accessible. This is not true for all of us, especially the minority groups treated differently—people with disabilities and the elderly. 
@@ -12,12 +14,8 @@ Clover is an assistant and can draw over other programs that are difficult to us
 
 ## How we built it
 
-We built Finest with Django, Python, Heroku CLI, GoDaddy, HTML/CSS, and Bootstrap. We used getform API for the contact form and used VS Code Live share to work on the project.
+Designed by Figma and built with Django, Python, Heroku CLI, GoDaddy, HTML/CSS, and Bootstrap. We used getform API for the contact form and used VS Code Live share to work on the project.
 
-With Heroku for hosting,
-
-- GoDaddy - www.wallstreetspy.co
-- Domain.com - www.wallstreetspy.tech
 
 ## Challenges we ran into
 
@@ -39,12 +37,10 @@ We learned a lot this weekend. We learned —
 - We learned a lot about Python and Django debugging silly errors in our code and how to manage our limited time efficiently.
 - And finally, there was a lot we learned from each other over the weekend.
 
-
-
 ## Accomplishments that we're proud of
 We are happy to assemble a solution to assist the disabled and the elderly by making them financially independent. 
 
 We are happy to create a project, work collaboratively as a team, and manage our features to work quickly and on schedule. Even though we had time zone differences, we managed to work together simultaneously and film the video clearly for everyone. Still, all of the team efficiently made distinct contributions to progress the project and the pitch.
 
 ## What's next for Finest
-A mobile application for both iOS and Android platform.
+A mobile application for both iOS and Android platforms.
