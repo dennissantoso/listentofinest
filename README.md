@@ -49,4 +49,4 @@ We are happy to assemble a solution to assist the disabled and the elderly by ma
 We are happy to create a project, work collaboratively as a team, and manage our features to work quickly and on schedule. Even though we had time zone differences, we managed to work together simultaneously and film the video clearly for everyone. Still, all of the team efficiently made distinct contributions to progress the project and the pitch.
 
 ## What's next for Finest
-A mobile application for both iOS and Android platform.
+A mobile application for both iOS and Android platforms.
