@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% block title %}Signup{% endblock title %}
+{% block body %}
+
+<section id="login">
+    <div class="container">
+      <div class="row justify-content-md-around justify-content-center align-items-center">
+           <div class="col-11 col-md-5 my-3">
+                <h1 class="text-title mb-3">Welcome Back!</h1>
+                <p class="text-muted mt-2 fs-5">At Finest, we are continually striving to improve accessibility of our products and services. 
+                    If you have any questions or suggestions regarding our accessibility initiatives we welcome your feedback.
+                </p>
+                <div class="contact_container bd_grid">
+                    <form method="post" action="https://getform.io/f/d0e49285-52d1-481d-a594-b413d186d8b0">
+          
+                  <div class="form-group my-4">
+                      <input type="text" class="control_input"  id="name" placeholder="Card Number" name="name">
+                      <a href="/photo" style= "color:black" class="nav-link">or take a photo </a>
+                      </div>
+          
+                  <div class="form-group my-4">
+                      <input type="email" class="control_input" id="email"  placeholder="Password (or say to mic)" name="email">
+                      <a href="/addvoice" style= "color:black" class="nav-link">or use a mic </a>
+                      </div>
+                    </form>
+
+                    <p class="text-muted mt-2 fs-10"> <input type= "checkbox"> Remember my card number and password</p>
+
+                    <button class = "col-11 col-md-5 my-3" type="submit" class="control_button" data-aos="fade-right" data-aos-delay="450">Log In</button>
+
+                    <a href="/contact" style= "color:black" class="nav-link">Need help logging in? Contact us > </a>
+                    <a href="/signup" style= "color:black" class="nav-link">New member? Sign up now ></a>
+                </div>
+
+           </div>
+           <div class="col-11 col-md-5 my-3">
+            <img src="https://cdn.discordapp.com/attachments/907713632421425186/914561814099009536/unknown.png" alt="" class="w-100 img-cover">
+            </div>
+      </div>
+  </div>
+  </section>
+
+  
+{% endblock body %}
