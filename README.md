@@ -1,5 +1,7 @@
 # Listen to Finest
 
+![](homepage.png)
+
 ## Inspiration
 In an age where our lives are entwined with technology developments, it is not unexpected that most products and services are already being mechanized and digitized. One of them is the finance industry. Because of automated services such as online payment and banking, bank-related transactions have become more convenient and accessible. This is not true for all of us, especially the minority groups treated differently—people with disabilities and the elderly. 
 
