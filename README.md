@@ -1,4 +1,4 @@
-# Listen to Finest
+# Finest
 
 ![](homepage.png)
 
