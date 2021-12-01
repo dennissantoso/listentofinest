@@ -44,3 +44,6 @@ We are happy to create a project, work collaboratively as a team, and manage our
 
 ## What's next for Finest
 A mobile application for both iOS and Android platforms.
+
+## Figma
+https://www.figma.com/proto/HlmdEEIUX6OIJXySjInS5E/NextStep-Hackathon?node-id=53%3A1239&starting-point-node-id=53%3A1239
